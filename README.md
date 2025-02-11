@@ -1,10 +1,10 @@
-# 📜 AI Craft - AI-Powered Code Assistance
+# AI code Editor - AI-Powered Code Assistance
 
 <img src="https://img.shields.io/badge/-Solo%20Project-f2336f?&style=for-the-badge&logoColor=white" />
 
 ## 🌟 Project Vision
 
-Welcome to **AI Craft**! This AI-powered coding environment enhances the development experience by integrating real-time AI assistance. Inspired by **Cursor IDE**, AI Craft provides an interactive chat interface for debugging, inline code assistance, AI-driven fixes for compilation errors, and AI-powered autocomplete & code generation.
+Welcome to **AI code Editor**! This AI-powered coding environment enhances the development experience by integrating real-time AI assistance. Inspired by **Cursor IDE**, AI code Editor provides an interactive chat interface for debugging, inline code assistance, AI-driven fixes for compilation errors, and AI-powered autocomplete & code generation.
 
 With support for multiple AI models—including **Gemini, Llama 3, Mistral, Phi-3, and Qwen**—AI Craft empowers developers with flexible, cutting-edge AI solutions tailored to their coding needs.
 
@@ -34,7 +34,7 @@ With support for multiple AI models—including **Gemini, Llama 3, Mistral, Phi-
 
 ### 🔹 **Judge0 Integration**
 
-- AI Craft is built on **Judge0 IDE**, enabling seamless code execution and AI-enhanced debugging.
+- AI code Editor is built on **Judge0 IDE**, enabling seamless code execution and AI-enhanced debugging.
 
 ---
 
@@ -66,28 +66,3 @@ Users can choose from a variety of AI models, including:
 - AI suggests relevant code completions while typing.
 - Users can generate full function implementations based on descriptions.
 
----
-
-## 🎥 Demo Screenshots
-
-### AI Chat Interface
-
-![AI Chat](https://github.com/dawit2123/AICraft-IDE/blob/master/Demo/chat.png)
-
-### Auto Complete
-
-![Auto Complete](https://github.com/dawit2123/AICraft-IDE/blob/master/Demo/Auto%20Complete.png)
-
-### Show diff
-
-![Show difference](https://github.com/dawit2123/AICraft-IDE/blob/master/Demo/show%20different.png)
-
-### Chat with selected code
-
-![Chat with selected code](https://github.com/dawit2123/AICraft-IDE/blob/master/Demo/start%20chat%20with%20selected%20code.png)
-
----
-
-### 📌 Developed by **Dawit Zewdu**
-
-🚀 AI Craft is designed to redefine the coding experience with **AI-powered intelligence** and **seamless debugging**. Stay tuned for more updates!
